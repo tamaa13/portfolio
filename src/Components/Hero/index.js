@@ -22,7 +22,7 @@ const HeroSection = () => {
                     </div>
                     <div className='flex mx-auto mt-16 md:mb-16'>
                         <div className='background mx-auto'>
-                            <img src={foto} className=' mx-auto h-[350px] w-[250px] lg:h-[330px] lg:w-[230px]'></img>
+                            <img src={foto} alt='foto' className=' mx-auto h-[350px] w-[250px] lg:h-[330px] lg:w-[230px]'></img>
                         </div>
                     </div>
                 </div>
